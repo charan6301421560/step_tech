@@ -24,8 +24,8 @@ def connect_to_mysql():
 
 # Sample data for demonstration purposes
 users_data = [
-    {"id": 1, "name": "John Doe", "email": "john@example.com", "role": "Admin"},
-    {"id": 2, "name": "Jane Smith", "email": "jane@example.com", "role": "User"},
+    {"id": 1, "name": "dell", "email": "dell@example.com", "role": "brand"},
+    {"id": 2, "name": "laptop", "email": "laptop@example.com", "role": "type"},
 ]
 
 # Route to display "Hello, World!"
